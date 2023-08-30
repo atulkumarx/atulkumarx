@@ -1,3 +1,4 @@
+![logo](https://github.com/atulkumarx/atulkumarx/blob/main/IMG_20230831_030113.png)
 <h1 align="center">Hi 👋, I'm Atul Kumar</h1>
 <h3 align="center">A passionate Software developer from India 👋</h3>
 
